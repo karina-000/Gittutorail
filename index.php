@@ -3,3 +3,5 @@
 
 <?php echo "EXO" ?>
 <?php echo "BTS" ?>
+
+<?php echo "magnetic" ?>
